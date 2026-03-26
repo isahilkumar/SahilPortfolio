@@ -1,16 +1,43 @@
-# React + Vite
+# Sahil Kumar | Full Stack Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my professional portfolio website, showcasing my skills, projects, and experience as a Computer Science student and Full Stack Developer.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- **Modern UI/UX**: Built with React 19 and Tailwind CSS 4.
+- **Interactive Animations**: Powered by Framer Motion.
+- **"Open to Work" Highlights**: Real-time availability indicator.
+- **Projects Showcase**: Detailed case studies of my latest work.
+- **CV Download**: Direct access to my latest curriculum vitae.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Tech Stack
+- **Frontend**: React.js, Tailwind CSS, Framer Motion, Lucide React
+- **Backend**: Node.js, Express.js (on related projects)
+- **Deployment**: Vite-optimized production build
 
-## React Compiler
+## 🏗️ Getting Started
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Prerequisites
+- Node.js (v18.17.0+ or v20.3.0+)
+- npm
 
-## Expanding the ESLint configuration
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/isahilkumar/SahilPortfolio.git
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📬 Contact
+- **Email**: mailsahil1008@gmail.com
+- **LinkedIn**: [sahil-k45](https://www.linkedin.com/in/sahil-k45/)
+- **GitHub**: [isahilkumar](https://github.com/isahilkumar)
+
+---
+Developed with ❤️ by Sahil Kumar.
